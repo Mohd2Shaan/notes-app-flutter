@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "677767552870",
+    "project_id": "mansha-1",
+    "storage_bucket": "mansha-1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677767552870:android:e5318abb66cf91c05232a7",
+        "android_client_info": {
+          "package_name": "com.learning1.projects"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCroxQdrKlql0RVhnuKDrTbGn1v2nvCvdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
